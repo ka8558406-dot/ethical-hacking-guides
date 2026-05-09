@@ -1,27 +1,39 @@
-# Ethical Hacking Resources
+Ethical Hacking and Cybersecurity Resources
+Cybersecurity awareness is becoming increasingly important in today's digital world. This repository shares beginner-friendly ethical hacking resources, cybersecurity learning materials, Linux basics, networking concepts, and web security tutorials for students and researchers interested in defensive security practices.
+The purpose of this project is educational only. All information shared here is intended to help learners understand cybersecurity concepts responsibly and legally.
+Topics Covered
+Ethical Hacking Basics
+Learn the fundamentals of ethical hacking, penetration testing concepts, and cybersecurity methodologies used to identify security weaknesses in systems and web applications.
+Linux for Cybersecurity
+Linux skills are essential for cybersecurity professionals. This repository includes beginner Linux commands, terminal usage, and basic system navigation resources.
+Networking Fundamentals
+Networking knowledge helps security researchers understand how devices communicate. Important topics include:
+IP addressing
+DNS
+HTTP and HTTPS
+TCP/IP
+Firewalls
+VPN concepts
+Web Application Security
+Modern cybersecurity learning also includes understanding common web vulnerabilities and secure coding awareness.
+Beginner Cybersecurity Learning Path
+New learners can improve their cybersecurity knowledge by studying:
+Linux basics
+Networking fundamentals
+Web technologies
+Cybersecurity awareness
+Ethical security testing concepts
+Consistent practice and responsible learning are important for building cybersecurity skills.
+Helpful Cybersecurity Tutorials
+Detailed cybersecurity tutorials, ethical hacking guides, and learning resources are available at:
+The Ethical Hacker Blog
+Additional learning resources:
+https://theethicalhacker.blog/category/active/
+https://theethicalhacker.blog/
+Educational Disclaimer
 
-Ethical hacking helps security researchers identify vulnerabilities before attackers exploit them. This repository shares beginner-friendly cybersecurity learning resources, penetration testing basics, Linux commands, networking concepts, and web security tutorials.
+This repository is created strictly for educational and defensive cybersecurity awareness purposes. Users are responsible for following all applicable laws and ethical guidelines in their region.
 
-## Topics Covered
+GitHub Pages Project
 
-- Ethical hacking basics
-- Linux for cybersecurity
-- Networking fundamentals
-- Web application security
-- Bug bounty learning resources
-- Cybersecurity tools
-- Online safety practices
-
-## Why Learn Ethical Hacking?
-
-Cybersecurity skills are becoming increasingly important for developers, IT students, and security professionals. Understanding vulnerabilities and security testing can help improve online safety and protect digital systems.
-
-## Helpful Tutorials and Guides
-
-If you want detailed cybersecurity tutorials and ethical hacking learning resources, visit:
-
-[The Ethical Hacker Blog](https://theethicalhacker.blog/)
-
-## Disclaimer
-
-This repository is created for educational and defensive cybersecurity learning purposes only.
+This project is also published using GitHub Pages to make cybersecurity learning resources easier to access online.
