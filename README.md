@@ -47,8 +47,8 @@ The Ethical Hacker Blog
 
 Additional learning resources:
 
-https://theethicalhacker.blog/
-https://theethicalhacker.blog/category/ethical-hacker/
+https://theethicalhacker.blog/category/cybersecurity/
+https://theethicalhacker.blog/category/ethical-hacking/
 Educational Disclaimer
 
 This repository is created strictly for educational and defensive cybersecurity awareness purposes. Users are responsible for following all applicable laws and ethical guidelines in their region.
